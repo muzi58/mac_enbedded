@@ -1,4 +1,5 @@
-# MAC 51单片机开发环境搭建
+转自作者：五街教授 https://www.bilibili.com/read/cv18942590/?spm_id_from=333.999.0.0 出处：bilibili
+# MAC 51单片机开发环境 
 
 # 1. Homebrew包管理工具安装 
 
